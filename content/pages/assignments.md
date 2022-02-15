@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 4e1aeeef-dea5-3825-f90b-766bb023b4b8
 ---
@@ -71,7 +74,7 @@ None
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Narrative essay, 1st version (PDF)]({{< baseurl >}}/resources/mit21w_034f16_narativesay1)
+[Narrative essay, 1{{< sup "st" >}} version (PDF)]({{< baseurl >}}/resources/mit21w_034f16_narativesay1)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +146,7 @@ Write proposal for your critical review (100–150 words)
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Critical Review, 1st Version (PDF)]({{< baseurl >}}/resources/mit21w_034f16_critrev1st)
+[Critical Review, 1{{< sup "st" >}} Version (PDF)]({{< baseurl >}}/resources/mit21w_034f16_critrev1st)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -218,7 +221,7 @@ Write proposal for your _Scientific American_ Update (150–200 words)
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[_Scientific American_ Update, 1st Version (PDF)]({{< baseurl >}}/resources/mit21w_034f16_sciameri1st)
+[_Scientific American_ Update, 1{{< sup "st" >}} Version (PDF)]({{< baseurl >}}/resources/mit21w_034f16_sciameri1st)
 {{< tdclose >}}
 
 {{< trclose >}}

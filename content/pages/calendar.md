@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 804cef83-74a2-51d1-d86d-b17b6c87c86a
 ---
@@ -88,7 +90,7 @@ Narrative Essay Kernel & Motive
 Different views of doctors' mistakes - student led
 {{< tdclose >}}
 {{< tdopen >}}
-Narrative essay, 1st version
+Narrative essay, 1{{< sup "st" >}} version
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +180,7 @@ Critical Review Pre-Draft Exercise 2
 None
 {{< tdclose >}}
 {{< tdopen >}}
-Critical Review, 1st version
+Critical Review, 1{{< sup "st" >}} version
 {{< tdclose >}}
 
 {{< trclose >}}
