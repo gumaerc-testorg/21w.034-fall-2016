@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e1aeeef-dea5-3825-f90b-766bb023b4b8
 resourcetype: Document
 title: 21W.034F16 Workshop 3 - Comments on Scientific American Updates
 uid: d7d14d5c-aac3-04ec-462c-22ec6b9d7493

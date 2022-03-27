@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e1aeeef-dea5-3825-f90b-766bb023b4b8
 resourcetype: Document
 title: 21W.034F16 Preparation for the Critical Review
 uid: 792804ad-02e2-3241-c445-be727be80eda

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b048a845-fb0d-5756-44d5-01dfa0fd7922
 resourcetype: Document
 title: 21W.034F16 Scientific American Update - Cancer Causing Fat
 uid: 6c51392f-2c37-8b0f-9463-09b595f58314

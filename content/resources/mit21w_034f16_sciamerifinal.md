@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e1aeeef-dea5-3825-f90b-766bb023b4b8
 resourcetype: Document
 title: 21W.034F16 Scientific American Update, final version
 uid: 9d1a6ad3-b839-0243-fd11-28f5d9d732c7

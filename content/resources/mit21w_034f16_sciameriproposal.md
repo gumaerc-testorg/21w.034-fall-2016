@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e1aeeef-dea5-3825-f90b-766bb023b4b8
 resourcetype: Document
 title: 21W.034F16 Scientific American Update - Proposal
 uid: 430d5e1d-999b-c668-e425-70f4fb672a5f

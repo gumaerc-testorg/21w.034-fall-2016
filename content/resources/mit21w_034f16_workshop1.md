@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e1aeeef-dea5-3825-f90b-766bb023b4b8
 resourcetype: Document
 title: 21W.034F16 Workshop 1 - Comments on Narrative Essays
 uid: 1d80d395-76eb-12a2-b08f-2afc4e9fbbb6

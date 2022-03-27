@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e1aeeef-dea5-3825-f90b-766bb023b4b8
 resourcetype: Document
 title: '21W.034F16 Critical Review Pre-Draft Exercise #2'
 uid: 85303c14-a59d-61f6-7bb6-1a3523ff834f

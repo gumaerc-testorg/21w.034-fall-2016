@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b048a845-fb0d-5756-44d5-01dfa0fd7922
 resourcetype: Document
 title: 21W.034F16 Critical Review - Why Should I Care?
 uid: 2c6f6fe1-c77d-c89a-6d84-1c4d2ec012aa

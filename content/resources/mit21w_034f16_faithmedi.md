@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b048a845-fb0d-5756-44d5-01dfa0fd7922
 resourcetype: Document
 title: 21W.034F16 Narrative Essay - Faith and Medicine
 uid: ffdd44fb-83b1-4287-0c2b-ac7f1019339c
