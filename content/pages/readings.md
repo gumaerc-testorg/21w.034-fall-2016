@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The following section lists the topics and readings assigned for each
+  session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -104,9 +106,9 @@ Fadiman, Anne. "Preface", and "The Eight Questions." In _The Spirit Catches You 
 
 ### Sample Student Narrative Essays
 
-"[Faith and Medicine (PDF)]({{< baseurl >}}/resources/mit21w_034f16_faithmedi)." (Courtesy of Dima Mirkin. Used with permission.)
+"{{% resource_link ffdd44fb-83b1-4287-0c2b-ac7f1019339c "Faith and Medicine (PDF)" %}}." (Courtesy of Dima Mirkin. Used with permission.)
 
-"[The First Sip (PDF)]({{< baseurl >}}/resources/mit21w_034f16_thefirstsip)." (Courtesy of an MIT student. Used with permission.)
+"{{% resource_link 39e81d4c-355a-032b-2df4-c41643ac9434 "The First Sip (PDF)" %}}." (Courtesy of an MIT student. Used with permission.)
 
 
 {{< tdclose >}}
@@ -130,13 +132,13 @@ No assigned readings
 
 Nisbet, Matthew C., and Dietram A. Scheufele. "[What's Next for Science Communication? Promising Directions and Lingering Distractions](https://doi.org/10.3732/ajb.0900041)." _American Journal of Botany_ 96, no. 10 (2009): 1767–8.
 
-Pineda, Diego. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Editing a Science Documentary: More Than Words (Literally!)." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.674.1529&rep=rep1&type=pdf) _Science Editor_ 27, no. 2 (2004): 47–49.
+Pineda, Diego. ["Editing a Science Documentary: More Than Words (Literally!)." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.674.1529&rep=rep1&type=pdf) _Science Editor_ 27, no. 2 (2004): 47–49.
 
 Varner, Johanna. "[Scientific Outreach: Toward Effective Public Engagement with Biological Science](https://doi.org/10.1093/biosci/biu021)." _BioScience_ 64, no. 4 (2014): 333–40.
 
 Reynolds, Julie. "[When Communicating with Diverse Audiences, Use Velcro To Make Science Stick](https://doi.org/10.1890/0012-9623-90.3.297)." _Bulletin Ecological Society of America_ 90, no. 3 (2009): 297–304.
 
-Select and view a pair of documentaries from this list: [Critical Review Documentaries (PDF)]({{< baseurl >}}/resources/mit21w_034f16_critrevdoc)
+Select and view a pair of documentaries from this list: {{% resource_link 715dac40-e66d-80fc-b725-68a88b83ae0d "Critical Review Documentaries (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -151,7 +153,7 @@ Select and view a pair of documentaries from this list: [Critical Review Documen
 
 ### Sample Student Critical Review
 
-["Why Should I Care?: Analyzing the Effectiveness of an Environmental Documentary (PDF)."]({{< baseurl >}}/resources/mit21w_034f16_critrevwhyi) (Courtesy of an MIT student. Used with permission.)
+{{% resource_link 2c6f6fe1-c77d-c89a-6d84-1c4d2ec012aa "\"Why Should I Care?: Analyzing the Effectiveness of an Environmental Documentary (PDF).\"" %}} (Courtesy of an MIT student. Used with permission.)
 
 
 {{< tdclose >}}
@@ -214,7 +216,7 @@ Stickgold, Robert, and Jeffrey M. Ellenbogen. "[Quiet! Sleeping Brain at Work](h
 
 Select and read carefully an article from the following list on a public health topic that interests you and might provide a starting point for your own _Scientific American_ Update:
 
-[Preparation for your _Scientific American_ Update (PDF)]({{< baseurl >}}/resources/mit21w_034f16_presciameri)
+{{% resource_link 5889e73a-18f6-b48e-a0f9-b8620e829432 "Preparation for your _Scientific American_ Update (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -238,9 +240,9 @@ Track down and read a recent (last five years) review article that covers new re
 
 Sample student _Scientific American_ Updates (Courtesy of MIT students and used with permission):
 
-"[Cancer Causing Fat - Why Postmenopausal Obese Women Are in Danger (PDF)]({{< baseurl >}}/resources/mit21w_034f16_cancercausi)"
+"{{% resource_link 6c51392f-2c37-8b0f-9463-09b595f58314 "Cancer Causing Fat - Why Postmenopausal Obese Women Are in Danger (PDF)" %}}"
 
-"[_Scientific American_ Update: Sea-Level Rise and Its Potential Impacts (PDF)]({{< baseurl >}}/resources/mit21w_034f16_sealevelrise)"
+"{{% resource_link 7984fef5-9642-c39e-1380-e33de1bf6904 "_Scientific American_ Update: Sea-Level Rise and Its Potential Impacts (PDF)" %}}"
 
 
 {{< tdclose >}}
@@ -291,7 +293,7 @@ No assigned readings
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Watch three TED talks (see list in the [Assignments]({{< baseurl >}}/pages/assignments) section)
+Watch three TED talks (see list in the {{% resource_link 4e1aeeef-dea5-3825-f90b-766bb023b4b8 "Assignments" %}} section)
 {{< tdclose >}}
 
 {{< trclose >}}
