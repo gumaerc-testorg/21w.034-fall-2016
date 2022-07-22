@@ -1,15 +1,19 @@
 ---
 content_type: page
+description: This section contains details about the course assignments and due dates.
+draft: false
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 4e1aeeef-dea5-3825-f90b-766bb023b4b8
 ---
-
 Schedule of Major and Minor Assignments
 ---------------------------------------
 
 Below is a table listing all the writing assignments for the course. Each assignment is due in the session in which it is listed.
 
-Sample student work for the major assignments can be found in the [readings]({{< baseurl >}}/pages/readings) section, since it was required that other students read student-written papers.
+Sample student work for the major assignments can be found in the {{% resource_link b048a845-fb0d-5756-44d5-01dfa0fd7922 "readings" %}} section, since it was required that other students read student-written papers.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -38,7 +42,7 @@ None
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Why MIT? (PDF)]({{< baseurl >}}/resources/mit21w_034f16_whymit)
+{{% resource_link c4bfa783-df82-e694-79ad-59f36e383dc0 "Why MIT? (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +51,7 @@ None
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Reading Response 1 (PDF)]({{< baseurl >}}/resources/mit21w_034f16_readingres1)
+{{% resource_link 8b68417c-52ec-08ad-b87f-c76455a19fe9 "Reading Response 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,9 +62,9 @@ None
 {{< tdopen >}}
 
 
-[Reading Response 2 (PDF)]({{< baseurl >}}/resources/mit21w_034f16_readingres2)
+{{% resource_link 8bd20792-c0a8-e830-d496-f370b6c0f37d "Reading Response 2 (PDF)" %}}
 
-[Narrative Essay Kernel & Motive (PDF)]({{< baseurl >}}/resources/mit21w_034f16_kernelmotiv)
+{{% resource_link 56a35c75-08ab-7e22-57aa-155253c59564 "Narrative Essay Kernel & Motive (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +75,7 @@ None
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Narrative essay, 1st version (PDF)]({{< baseurl >}}/resources/mit21w_034f16_narativesay1)
+{{% resource_link b754b9a9-0858-1785-2471-ed138de4cfbe "Narrative essay, 1{{< sup \"st\" >}} version (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +84,7 @@ None
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Workshop 1 - Comments on Narrative Essays (PDF)]({{< baseurl >}}/resources/mit21w_034f16_workshop1)
+{{% resource_link 1d80d395-76eb-12a2-b08f-2afc4e9fbbb6 "Workshop 1 - Comments on Narrative Essays (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,13 +115,13 @@ None
 
 Prepare for critical review: Identify writers / speakers, dates and sources of all materials to consider in your critical review
 
-[Critical Review Documentaries (PDF)]({{< baseurl >}}/resources/mit21w_034f16_critrevdoc)
+{{% resource_link 715dac40-e66d-80fc-b725-68a88b83ae0d "Critical Review Documentaries (PDF)" %}}
 
-[Preparation for the Critical Review (PDF)]({{< baseurl >}}/resources/mit21w_034f16_precritrev) - Suggestions to help you organize your critical review
+{{% resource_link 792804ad-02e2-3241-c445-be727be80eda "Preparation for the Critical Review (PDF)" %}} - Suggestions to help you organize your critical review
 
-[Critical Review Priorities (PDF)]({{< baseurl >}}/resources/mit21w_034f16_critrevprio-) - Questions to guide your approach to the critical review. These same questions will serve as a framework for your feedback to your workshop partners.
+{{% resource_link e286ab12-e553-4101-6012-f09a4ef5578d "Critical Review Priorities (PDF)" %}} - Questions to guide your approach to the critical review. These same questions will serve as a framework for your feedback to your workshop partners.
 
-[Critical Review Pre-Draft Exercise 1 (PDF)]({{< baseurl >}}/resources/mit21w_034f16_critrevpd1)
+{{% resource_link 8498a3b6-d0e2-91b2-ce51-f0efe50833ce "Critical Review Pre-Draft Exercise 1 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -132,7 +136,7 @@ Prepare for critical review: Identify writers / speakers, dates and sources of a
 
 Write proposal for your critical review (100–150 words)
 
-[Critical Review Pre-Draft Exercise 2 (PDF)]({{< baseurl >}}/resources/mit21w_034f16_critrevpdex2)
+{{% resource_link 85303c14-a59d-61f6-7bb6-1a3523ff834f "Critical Review Pre-Draft Exercise 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -143,7 +147,7 @@ Write proposal for your critical review (100–150 words)
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Critical Review, 1st Version (PDF)]({{< baseurl >}}/resources/mit21w_034f16_critrev1st)
+{{% resource_link 74f914f7-2fb5-810d-51c1-0e38fd5f4e90 "Critical Review, 1{{< sup \"st\" >}} Version (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +156,7 @@ Write proposal for your critical review (100–150 words)
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Workshop 2 - Comments on Critical Reviews (PDF)]({{< baseurl >}}/resources/mit21w_034f16_workshop2)
+{{% resource_link c1fe8602-962e-1100-4991-7e1db9c66d5a "Workshop 2 - Comments on Critical Reviews (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +178,7 @@ Critical Review, final version
 
 Two-paragraph summary (c. 200 words) of the _Scientific American_ or _New York Times_ article you have chosen
 
-[Preparation for your _Scientific American_ Update (PDF)]({{< baseurl >}}/resources/mit21w_034f16_presciameri)
+{{% resource_link 5889e73a-18f6-b48e-a0f9-b8620e829432 "Preparation for your _Scientific American_ Update (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -192,7 +196,7 @@ Zeroing in on your Update material
 *   List the key advances and / or changes in orientation reported in your review article
 *   Write two-sentence synopses of two supplementary journal articles
 
-Preparation for your [Scientific American Update, Part 2 (PDF)]({{< baseurl >}}/resources/mit21w_034f16_presciameri2)
+Preparation for your {{% resource_link 0fc5fe73-2f61-2bef-4e73-ec74cd306e1b "Scientific American Update, Part 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -207,7 +211,7 @@ Preparation for your [Scientific American Update, Part 2 (PDF)]({{< baseurl >}}/
 
 Write proposal for your _Scientific American_ Update (150–200 words)
 
-[Scientific American Update - Proposal (PDF)]({{< baseurl >}}/resources/mit21w_034f16_sciameriproposal)
+{{% resource_link 430d5e1d-999b-c668-e425-70f4fb672a5f "Scientific American Update - Proposal (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -218,7 +222,7 @@ Write proposal for your _Scientific American_ Update (150–200 words)
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[_Scientific American_ Update, 1st Version (PDF)]({{< baseurl >}}/resources/mit21w_034f16_sciameri1st)
+{{% resource_link f135cfd0-0432-0ff0-371e-67e0ef6cbc6c "_Scientific American_ Update, 1{{< sup \"st\" >}} Version (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,7 +231,7 @@ Write proposal for your _Scientific American_ Update (150–200 words)
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Workshop 3 - Comments on _Scientific American_ Updates (PDF)]({{< baseurl >}}/resources/mit21w_034f16_workshop3)
+{{% resource_link d7d14d5c-aac3-04ec-462c-22ec6b9d7493 "Workshop 3 - Comments on _Scientific American_ Updates (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,7 +249,7 @@ Revise introduction to _Scientific American_ Update (at least one full page)
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[_Scientific American_ Update, Final Version (PDF)]({{< baseurl >}}/resources/mit21w_034f16_sciamerifinal)
+{{% resource_link 9d1a6ad3-b839-0243-fd11-28f5d9d732c7 "_Scientific American_ Update, Final Version (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +262,7 @@ Revise introduction to _Scientific American_ Update (at least one full page)
 
 Write up brief response to each TED talk in response to assigned questions
 
-[TED Talks Assignment (PDF)]({{< baseurl >}}/resources/mit21w_034f16_talkasign)
+{{% resource_link b0b367bd-11de-cc79-b963-58c3835954ec "TED Talks Assignment (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -273,9 +277,9 @@ Write up brief response to each TED talk in response to assigned questions
 
 (For those not presenting): Final short commentary
 
-[Final Short Assignment (PDF)]({{< baseurl >}}/resources/mit21w_034f16_finalshort)
+{{% resource_link e509d5fc-23ee-d29f-d940-ceb2c608dd08 "Final Short Assignment (PDF)" %}}
 
-[Oral Presentation Assignment (PDF)]({{< baseurl >}}/resources/mit21w_034f16_oralasign)
+{{% resource_link 4d16f467-f232-a5e2-ef87-1c397d2f48a0 "Oral Presentation Assignment (PDF)" %}}
 
 
 {{< tdclose >}}
