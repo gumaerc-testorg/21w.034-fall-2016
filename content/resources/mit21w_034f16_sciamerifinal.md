@@ -6,6 +6,7 @@ file: /courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-an
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 21W.034F16 Scientific American Update, final version
 uid: 9d1a6ad3-b839-0243-fd11-28f5d9d732c7
 ---
 This files contain information regarding science writing and new media: Perspectives on medicine and public health: Scientific American Update, final version.
-

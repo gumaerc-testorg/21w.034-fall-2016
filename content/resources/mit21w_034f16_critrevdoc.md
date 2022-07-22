@@ -6,6 +6,7 @@ file: /courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-an
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 21W.034F16 Critical Review Documentaries
 uid: 715dac40-e66d-80fc-b725-68a88b83ae0d
 ---
 This files contain information regarding science writing and new media: Perspectives on medicine and public health: Critical review documentaries.
-

@@ -6,6 +6,7 @@ file: /courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-an
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 21W.034F16 Why MIT?
 uid: c4bfa783-df82-e694-79ad-59f36e383dc0
 ---
 This files contain information regarding science writing and new media: Perspectives on medicine and public health: Why MIT?
-
