@@ -35,8 +35,10 @@
     "website": "21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016"
   },
   "course_title": "Science Writing and New Media: Perspectives on Medicine and Public Health",
-  "course_description": "Along with writing for their peers, physicians must also communicate their knowledge to \"everyday\" people. Assignments in this course will challenge students to consider the distinctive needs of different audiences. Image courtesy of Nic McPhee on flickr. Used with permission.\n",
-  "department_numbers": [],
+  "course_description": "Like other scientists, medical researchers and clinicians must be capable of presenting their work to an audience of professional peers. Unlike many scientists, however, physicians must routinely translate their sophisticated knowledge into lay terms for their own patients and for the education of the public at large. A surprising number of physicians write for less utilitarian reasons as well, choosing the narrative essay as a means of exploring the non-technical issues that emerge in their clinical practice. Over the course of the semester, we will explore the full range of writings by physicians and other health practitioners.",
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.034",
   "course_image_thumbnail": {
@@ -46,6 +48,7 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "f59e39a0-c33c-4ad4-a0dd-af806c95f513",
+  "site_uid": "b55b7e4e-7f56-4161-9f71-a8fe4d1b4044",
+  "site_short_id": "21w.034-fall-2016",
   "title": "Course Metadata"
 }
