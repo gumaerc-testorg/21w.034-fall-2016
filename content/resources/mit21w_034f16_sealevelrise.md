@@ -4,6 +4,7 @@ description: 'This files contain information regarding science writing and new m
   Perspectives on medicine and public health: Scientific american update - sea-level
   rise.'
 file: /courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/7984fef59642c39e1380e33de1bf6904_MIT21W_034F16_SeaLevelRise.pdf
+file_size: 227587
 file_type: application/pdf
 learning_resource_types:
 - Readings
