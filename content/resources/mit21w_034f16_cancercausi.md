@@ -4,6 +4,7 @@ description: 'This files contain information regarding science writing and new m
   Perspectives on medicine and public health: Scientific american update - cancer
   causing fat.'
 file: /courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/6c51392f2c378b0f946309b595f58314_MIT21W_034F16_CancerCausi.pdf
+file_size: 590980
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This files contain information regarding science writing and new media:
   Perspectives on medicine and public health: Narrative Essay Kernel & Motive.'
 file: /courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/56a35c7508ab7e2257aa155253c59564_MIT21W_034F16_KernelMotiv.pdf
+file_size: 115017
 file_type: application/pdf
 learning_resource_types:
 - Assignments
