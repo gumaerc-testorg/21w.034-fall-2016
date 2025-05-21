@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This files contain information regarding science writing and new media:
   Perspectives on medicine and public health: Workshop 2 - comments on critical reviews.'
-file: /ol-ocw-studio-app/courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/c1fe8602962e110049917e1db9c66d5a_MIT21W_034F16_Workshop2.pdf
+file: courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/c1fe8602962e110049917e1db9c66d5a_MIT21W_034F16_Workshop2.pdf
 file_size: 603821
 file_type: application/pdf
 learning_resource_types:

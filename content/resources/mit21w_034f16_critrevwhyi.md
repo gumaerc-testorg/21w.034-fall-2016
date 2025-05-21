@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This files contain information regarding science writing and new media:
   Perspectives on medicine and public health: Critical Review - Why should I care?'
-file: /ol-ocw-studio-app/courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/2c6f6fe1c77dc89a6d841c4d2ec012aa_MIT21W_034F16_CritRevWhyI.pdf
+file: courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/2c6f6fe1c77dc89a6d841c4d2ec012aa_MIT21W_034F16_CritRevWhyI.pdf
 file_size: 638659
 file_type: application/pdf
 learning_resource_types:
