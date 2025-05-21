@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This files contain information regarding science writing and new media:
   Perspectives on medicine and public health: TED talks assignment.'
-file: /ol-ocw-studio-app/courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/b0b367bd11decc79b96358c3835954ec_MIT21W_034F16_TalkAsign.pdf
+file: courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/b0b367bd11decc79b96358c3835954ec_MIT21W_034F16_TalkAsign.pdf
 file_size: 130964
 file_type: application/pdf
 learning_resource_types:
