@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This files contain information regarding science writing and new media:
   Perspectives on medicine and public health: Reading Response 1.'
-file: /ol-ocw-studio-app/courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/8b68417c52ec08adb87fc76455a19fe9_MIT21W_034F16_ReadingRes1.pdf
+file: courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/8b68417c52ec08adb87fc76455a19fe9_MIT21W_034F16_ReadingRes1.pdf
 file_size: 122251
 file_type: application/pdf
 learning_resource_types:

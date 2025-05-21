@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This files contain information regarding science writing and new media:
   Perspectives on medicine and public health: Critical Review Pre-Draft Exercise #1.'
-file: /ol-ocw-studio-app/courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/8498a3b6d0e291b2ce51f0efe50833ce_MIT21W_034F16_CritRevPD1.pdf
+file: courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/8498a3b6d0e291b2ce51f0efe50833ce_MIT21W_034F16_CritRevPD1.pdf
 file_size: 99222
 file_type: application/pdf
 learning_resource_types:
