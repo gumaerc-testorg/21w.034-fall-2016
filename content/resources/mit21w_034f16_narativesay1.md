@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This files contain information regarding science writing and new media:
   Perspectives on medicine and public health: Narrative essay 1st version.'
-file: courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/b754b9a9085817852471ed138de4cfbe_MIT21W_034F16_NarativEsay1.pdf
+file: /ol-ocw-studio-app/courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/b754b9a9085817852471ed138de4cfbe_MIT21W_034F16_NarativEsay1.pdf
 file_size: 129522
 file_type: application/pdf
 learning_resource_types:
