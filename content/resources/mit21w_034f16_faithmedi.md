@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This files contain information regarding science writing and new media:
   Perspectives on medicine and public health: Narrative essay - faith and medicine.'
-file: courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/ffdd44fb83b142870c2bac7f1019339c_MIT21W_034F16_FaithMedi.pdf
+file: /ol-ocw-studio-app/courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/ffdd44fb83b142870c2bac7f1019339c_MIT21W_034F16_FaithMedi.pdf
 file_size: 121859
 file_type: application/pdf
 learning_resource_types:
