@@ -52,4 +52,4 @@ Perelman, Leslie, and Edward Barrett. _The Mayfield Handbook of Technical and Sc
 
 Penrose, Ann M., and Steven B. Katz. _Writing in the Sciences: Exploring Conventions of Scientific Discourse (The Allyn & Bacon Series in Technical Communication)_. 3rd ed. Longman, 2010. ISBN: 9780205616718.
 
-[The Purdue Online Writing Lab (OWL)](https://owl.english.purdue.edu/)
+{{% resource_link "312cb21e-9d40-4a58-9a32-d6edf09ffcef" "The Purdue Online Writing Lab (OWL)" %}}

@@ -210,7 +210,7 @@ Workshop 2 - Comments on Critical Reviews
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Library session in [Hayden](https://libraries.mit.edu/hayden/)
+Library session in {{% resource_link "073794fe-0de4-4b8e-a654-ed05363b6b47" "Hayden" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Critical Review, final version
